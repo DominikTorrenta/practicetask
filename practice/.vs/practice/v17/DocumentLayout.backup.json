@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\repo\\practicetask\\practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B87AD0FF-570B-48B9-8DAB-3EBEADC173A8}|practice\\practice.csproj|c:\\users\\user\\documents\\repo\\practicetask\\practice\\practice\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B87AD0FF-570B-48B9-8DAB-3EBEADC173A8}|practice\\practice.csproj|solutionrelative:practice\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B87AD0FF-570B-48B9-8DAB-3EBEADC173A8}|practice\\practice.csproj|c:\\users\\user\\documents\\repo\\practicetask\\practice\\practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B87AD0FF-570B-48B9-8DAB-3EBEADC173A8}|practice\\practice.csproj|solutionrelative:practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\repo\\practicetask\\practice\\practice\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "practice\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\USER\\Documents\\repo\\practicetask\\practice\\practice\\LoginPage.xaml",
+              "RelativeToolTip": "practice\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T14:03:22.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\repo\\practicetask\\practice\\practice\\MainWindow.xaml",
               "RelativeDocumentMoniker": "practice\\MainWindow.xaml",
@@ -34,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\repo\\practicetask\\practice\\practice\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "practice\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\USER\\Documents\\repo\\practicetask\\practice\\practice\\MainWindow.xaml.cs",
               "RelativeToolTip": "practice\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T13:20:29.318Z",
               "EditorCaption": ""

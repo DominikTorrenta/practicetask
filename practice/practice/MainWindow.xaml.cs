@@ -16,8 +16,11 @@ namespace practice;
 /// </summary>
 public partial class MainWindow : Window
 {
+
+    public Frame MainFrame;
     public MainWindow()
     {
         InitializeComponent();
+        Frame = MainFrame;
     }
 }
